@@ -1,0 +1,15 @@
+Customer 1:
+	Ordered Foods: 
+
+    	    Platter Name 		 Quantity	        Price
+           --------------               ----------            ---------
+
+	      1. Sushi                       05              8308.75 BDT
+	      2. Gyoza                       04              5773.00 BDT
+                                                            -------------
+					              Total: 14081.75 BDT
+
+	Review    : Good
+	Comments  : Nice one. Need some improvements thoutgh
+
+
