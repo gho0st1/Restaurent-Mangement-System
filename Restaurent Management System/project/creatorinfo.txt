@@ -3,8 +3,7 @@
 
 	Developed By: 
 
-                   Md. Shafiul Alam    		173-15-10268
                    Nazmus Sakib        		181-15-10817
-                   Izazul Haque Saad   		181-15-10621
-                   Mst sanzida Sultana 		181-15-10597
-                   Rezaur Rahman       		181-15-10595
+                   Md. Shafiul Alam    		173-15-10268
+
+	Students of 3rd Semester, Dept of CSE, Daffodil International University 
